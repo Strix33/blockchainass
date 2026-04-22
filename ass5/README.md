@@ -127,22 +127,26 @@ All actions are recorded on the blockchain, ensuring **transparency and decentra
 ## 📸 Screenshots
 
 ### 1. Proposal Creation
-![Proposal Creation](screenshots/02.png)
+<img width="1488" height="715" alt="image" src="https://github.com/user-attachments/assets/decb6305-a502-47de-96f8-b6116b9fe3b1" />
+
 
 ---
 
 ### 2. Voting Process
-![Voting](screenshots/04.png)
+<img width="1488" height="715" alt="image" src="https://github.com/user-attachments/assets/a17a0ac3-9e0d-4c90-865c-61abd034d833" />
+
 
 ---
 
 ### 3. Execution Result
-![Execution](screenshots/05.png)
+<img width="1489" height="704" alt="image" src="https://github.com/user-attachments/assets/6330d700-9bec-4352-ba99-cf0b70c324f0" />
+
 
 ---
 
 ### 4. Final DAO State
-![Final State](screenshots/06.png)
+<img width="1480" height="704" alt="image" src="https://github.com/user-attachments/assets/6279a8a4-eaeb-44c0-9cc7-c96d51fc1fc8" />
+
 
 ---
 
