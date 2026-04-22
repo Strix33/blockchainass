@@ -117,25 +117,30 @@ http://127.0.0.1:3000
 ## 📸 Screenshots
 
 ### 1. Wallet Connection
-![Wallet Connection](screenshots/01.png)
+<img width="1918" height="908" alt="image" src="https://github.com/user-attachments/assets/fd6b5bba-77b3-495e-a8e5-b6f81895d7b7" />
+
 
 ---
 
 ### 2. Transaction Execution (MetaMask Confirmation)
-![Transaction Execution](screenshots/02.png)
+<img width="1918" height="911" alt="image" src="https://github.com/user-attachments/assets/9f6f1292-e03d-4513-915d-088556acd7d7" />
+
 
 ---
 
 ### 3. Transaction Success Alert
-![Transaction Success](screenshots/03.png)
+<img width="1918" height="913" alt="image" src="https://github.com/user-attachments/assets/55142f60-6245-4255-9f34-97dea19afa44" />
+
 
 ---
 
 ### 4. MetaMask Activity (Transaction Confirmed)
-![MetaMask Activity](screenshots/04.png)
+<img width="1918" height="907" alt="image" src="https://github.com/user-attachments/assets/bdefb1e7-4974-407e-85db-0547621343eb" />
+
 
 ---
 
 ### 5.Stored Data from Smart Contract
-![Output Display](screenshots/05.png)
+<img width="1918" height="908" alt="image" src="https://github.com/user-attachments/assets/097b8a30-5a59-4403-a215-88289bb3e85f" />
+
 
