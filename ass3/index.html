@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Product DApp</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="container">
+
+    <h1>🛒 Product Transaction DApp</h1>
+
+    <button class="connect-btn" onclick="connectWallet()">Connect Wallet</button>
+    <p id="account" class="account"></p>
+
+    <div class="card">
+        <input type="text" id="messageInput" placeholder="Enter product details..." />
+        <button class="primary" onclick="sendTransaction()">Send Transaction</button>
+    </div>
+
+    <div class="card">
+        <button class="secondary" onclick="getMessage()">Get Stored Data</button>
+        <p id="output"></p>
+    </div>
+
+</div>
+
+<script src="ethers.js"></script>
+<script src="app.js"></script>
+
+</body>
+</html>

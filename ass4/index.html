@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>IPFS Storage DApp</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="container">
+
+    <h1>📁 Decentralized File Storage</h1>
+    <p class="subtitle">Upload and retrieve files using IPFS</p>
+
+    <!-- Upload Section -->
+    <div class="card">
+        <h3>Upload File</h3>
+        <input type="file" id="fileInput">
+        <button class="primary" onclick="uploadFile()">Upload to IPFS</button>
+
+        <div id="result" class="result"></div>
+    </div>
+
+    <!-- Retrieve Section -->
+    <div class="card">
+        <h3>Retrieve File</h3>
+        <input type="text" id="cidInput" placeholder="Enter CID here">
+        <button class="secondary" onclick="getFile()">Fetch File</button>
+
+        <iframe id="preview" width="100%" height="400px"></iframe>
+    </div>
+
+</div>
+
+<script src="app.js"></script>
+
+</body>
+</html>
