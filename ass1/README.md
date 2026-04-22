@@ -42,14 +42,16 @@ It includes:
 ## 📸 Screenshots
 
 ### 1. Smart Contract Compilation in Remix
-![Compilation](screenshots/01.png)
+<img width="1486" height="621" alt="image" src="https://github.com/user-attachments/assets/cbdbe7d8-698b-43d0-abc3-618da2b3c919" />
+
 
 ---
 
 ### 2. Contract Deployment using MetaMask (Sepolia)
-![Deployment](screenshots/02.png)
+<img width="1402" height="706" alt="image" src="https://github.com/user-attachments/assets/8caf1ebe-87bf-4702-a119-2548ced3ba81" />
+
 
 ---
 
 ### 3. Transaction Confirmation on Etherscan
-![Etherscan](screenshots/03.png)
+<img width="1918" height="912" alt="image" src="https://github.com/user-attachments/assets/4e7c38d3-613e-45d8-a15a-555d9137dcd4" />
