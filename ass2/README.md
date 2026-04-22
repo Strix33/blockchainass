@@ -54,7 +54,8 @@ This demonstrates improved scalability and lower transaction cost using the Poly
 ## 📸 Screenshots
 
 ### 1. MetaMask Network Setup (Polygon Amoy)
-![MetaMask Network](screenshots/01.png)
+<img width="468" height="858" alt="image" src="https://github.com/user-attachments/assets/dc9d99f4-23ea-4ee6-a222-7a8ff541cea0" />
+
 
 ---
 
@@ -64,4 +65,4 @@ This demonstrates improved scalability and lower transaction cost using the Poly
 ---
 
 ### 3. Transaction Confirmation on PolygonScan
-![PolygonScan Transaction](screenshots/03.png)
+<img width="1917" height="911" alt="image" src="https://github.com/user-attachments/assets/c3be04fe-ff80-49b1-9cb6-e8daf16fb4c5" />
